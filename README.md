@@ -1,4 +1,4 @@
-# CMSE801-Machine-Learning-Neutrino
+
 
 # Neutrino Machine Learning Package - CMSE 801 (Computational Methods)
 This was a software framework developed to meet the requirements for the Computational Methods course in Python. The package consists of support for 2D and 3D dataset processing with application program interfaces (API) for deep neural networks. This code was written extensively using predefined header files and functions in C++ with extensive Python supports to wrap up the program. The goal was to develop a generic tool to handle 2D-projected images and 3D-voxelized data produced, sampled, or simulated by high-energy particle experiments. Ideally, this would be suitable for sparse data processing (which I tailored more so to analyzing neutrino events based on hierarchy).
